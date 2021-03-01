@@ -3,7 +3,7 @@
 A posix script that helps you find Youtube videos (with out API) and opens/downloads using mpv/youtube-dl.
 * Thumbnails-how
 * History support-how
-* Download support
+* Download support-how
 * Format selection (and default formats)
 * Queue multiple tracks (using fzf multiselection)
 
